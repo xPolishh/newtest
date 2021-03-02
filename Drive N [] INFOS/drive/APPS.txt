@@ -1,0 +1,19 @@
+Using custop apps on INF-OS
+
+Folder "apps" is reserved for app files
+
+How to add and launch apps?
+
+- Normal apps
+ Just move your app file to system32 folder, you dont have to move app data files
+ Then in file opener tap "start (app name)"
+
+
+- Batch etc apps
+ In apps for example batch apps (most supported by system files) first (if your game
+ require more than one file to work ,make (or if you have it already) new folder, place
+ those files in it. Then make new shortcut to main file and place it (shortcut) in 
+ system32. To launch it tap in file opener "start (your shortcut name here)"
+
+Example is system built batch game Flappy Bird clone.
+To launch it go to file opener and type "start flappy"

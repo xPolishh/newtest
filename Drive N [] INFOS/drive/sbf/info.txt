@@ -1,0 +1,2 @@
+sbf means System Backup Files
+that means if some files are corrupted etc you can use these
